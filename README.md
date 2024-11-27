@@ -12,13 +12,13 @@ Telegram（电报）SGK机器人，仅用于个人测试。已滤除数据库较
 
 [**传送门**](https://t.me/aishegongkubot?start=AISGK_TDW5DW2V)
 
-## liemo （猎魔专用）
+## liemo
 首次查询请参考[使用教程](https://speak-1.gitbook.io/hh_liemo_bot)
 
 [**传送门**](https://t.me/hh_liemo_bot?start=6320564014)
 
 ## 🔰黑盒-𝑩𝒍𝒂𝒄𝒌 𝑩𝑶𝑿 -社工库🅥
-首次查询请参考[使用教程](https://telegra.ph/%E9%BB%91%E7%9B%92-%F0%9D%91%A9%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%84%F0%9D%92%8C-%F0%9D%91%A9%F0%9D%91%B6%F0%9D%91%BF---%E7%A4%BE%E5%B7%A5%E5%BA%93%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-08-23)
+首次查询请参考[使用教程](https://telegra.ph/%E9%BB%91%E7%9B%92-%F0%9D%91%A9%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%84%F0%9D%92%8C-%F0%9D%91%A9%F0%9D%91%B6%F0%9D%91%BF---%E7%A4%BE%E5%B7%A5%E5%BA%93%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-05-10)
 
 [**传送门**](https://t.me/BOXsgkbot?start=PTGKWiY)
 
@@ -28,13 +28,18 @@ Telegram（电报）SGK机器人，仅用于个人测试。已滤除数据库较
 ## 暗精灵社工库
 [**传送门**](https://t.me/AJL01_bot?start=xkOLiW4qY1)
 
-## 【ᯤ⁶ᴳ】哈希社工庫•𝙃𝙖𝙨𝙝
+## 【ᯤ⁶ᴳ】哈希社工庫•𝙃𝙖𝙨𝙝𝙎𝙂𝙆
 首次查询请参考[使用教程](https://telegra.ph/AnonymousSGK-05-08)
 
 [**传送门**](https://t.me/AnonymousSGKbot)
 
 ## Hope机器人
-[**传送门**](https://t.me/HereisHopeBot?start=6320564014)
+[**传送门**](https://t.me/HereisHopeBot?start=Xe32fc75400a2c24a6ab2a8d388c57902)
+
+## 淘宝社工库
+首次查询请参考[使用教程](https://telegra.ph/%E4%B8%80%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9A%E9%9B%B6%E5%BA%A6Master%E7%A4%BE%E5%B7%A5%E5%BA%93-06-08)
+
+[**传送门**](https://t.me/TaoBaoSGKBot?start=4ysLZzJqmw)
 
 ## 项目注意事项
 业余时间测试与整理，根据繁忙程度及个人精力，可能不定期更新、可能停止更新，亦可能隐藏、注销该库。
