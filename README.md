@@ -7,7 +7,7 @@ Telegram（电报）SGK机器人，仅用于个人测试。已滤除数据库较
 > **本仓库仅用于存储由各开发者所维护、管理的社工库机器人，其数据库、接口、信息源及其向使用者提供的各类查询业务等均由其对应团队负责，与本仓库管理员无关！**
 > **严禁通过`Issues`等方式直接向仓库管理员和（或）贡献者发送个人数据，否则由此造成的信息泄露等后果由发送者承担！！**
 
-## AISGK
+## AISGK（暂无响应）
 首次查询请参考[使用教程](https://telegra.ph/AISGK-05-17)
 
 [**传送门**](https://t.me/aishegongkubot?start=AISGK_TDW5DW2V)
@@ -31,7 +31,7 @@ Telegram（电报）SGK机器人，仅用于个人测试。已滤除数据库较
 ## 【ᯤ⁶ᴳ】哈希社工庫•𝙃𝙖𝙨𝙝𝙎𝙂𝙆
 首次查询请参考[使用教程](https://telegra.ph/AnonymousSGK-05-08)
 
-[**传送门**](https://t.me/AnonymousSGKbot)
+[**传送门**](https://t.me/AnonymousSGKbot?start=6320564014)
 
 ## Hope机器人
 [**传送门**](https://t.me/HereisHopeBot?start=Xe32fc75400a2c24a6ab2a8d388c57902)
