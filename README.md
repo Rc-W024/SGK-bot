@@ -42,7 +42,6 @@ Telegram（电报）SGK机器人，仅用于个人测试。已滤除数据库较
 ### 贡献说明
 > [!IMPORTANT]
 > 由于安全原因，暂不接受类似`Pull requests`等相关贡献和推荐！
-> 如有任何疑问或需求，请邮件联系 *Admit001@outlook.com* 申请票证。
 
 ## ⭐ Starchart
 ![star](https://starchart.cc/Rc-W024/SGK-bot.svg)
